@@ -1,0 +1,18 @@
+<configuration>
+	<appender name="STDOUT"
+		class="ch.qos.logback.core.ConsoleAppender">
+		<encoder>
+			<pattern>%date %level [%thread] %logger{10} [%file:%line] %msg%n
+			</pattern>
+		</encoder>
+	</appender>
+	<appender name="JUNIT"
+		class="com.abc.automate.appender.JunitAppender">
+	</appender>
+
+
+	<root level="info">
+		<appender-ref ref="STDOUT" />
+		<appender-ref ref="JUNIT" />
+	</root>
+</configuration>

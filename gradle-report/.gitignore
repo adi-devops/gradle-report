@@ -1,0 +1,11 @@
+/target/**
+/build/classes/**
+/build/generated/**
+/build/test-results/**
+/build/resources/**
+/build/tmp/**
+/.settings/
+.classpath
+.DS_Store
+.project
+.gradle/**

@@ -1,0 +1,13 @@
+Mon Jun 08 12:09:57 IST 2020- 0sec [Test worker] [INFO] [io.github.bonigarcia.wdm.WebDriverManager] Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine) 
+Mon Jun 08 12:09:57 IST 2020- 0sec [Test worker] [INFO] [io.github.bonigarcia.wdm.WebDriverManager] Exporting webdriver.chrome.driver as /Users/asekha251/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver 
+Mon Jun 08 12:10:04 IST 2020- 6sec [Test worker] [INFO] [com.abc.automate.GoogleSearchTest] navigate to google.com 
+Mon Jun 08 12:10:04 IST 2020- 6sec [Test worker] [INFO] [com.abc.automate.GoogleSearchTest] search keyword=abc automate 
+Mon Jun 08 12:10:07 IST 2020- 9sec [Test worker] [INFO] [com.abc.automate.GoogleSearchTest] click search button 
+Mon Jun 08 12:10:07 IST 2020- 9sec [Test worker] [INFO] [com.abc.automate.GoogleSearchTest] search link title=Uploads from ABC Automate - YouTube 
+Mon Jun 08 12:10:07 IST 2020- 9sec [Test worker] [INFO] [io.github.bonigarcia.wdm.WebDriverManager] Using chromedriver 83.0.4103.39 (since Google Chrome 83 is installed in your machine) 
+Mon Jun 08 12:10:07 IST 2020- 9sec [Test worker] [INFO] [io.github.bonigarcia.wdm.WebDriverManager] Exporting webdriver.chrome.driver as /Users/asekha251/.m2/repository/webdriver/chromedriver/mac64/83.0.4103.39/chromedriver 
+Mon Jun 08 12:10:12 IST 2020- 14sec [Test worker] [INFO] [com.abc.automate.GoogleSearchTest] navigate to google.com 
+Mon Jun 08 12:10:12 IST 2020- 14sec [Test worker] [INFO] [com.abc.automate.GoogleSearchTest] search keyword=github adi-devops 
+Mon Jun 08 12:10:15 IST 2020- 17sec [Test worker] [INFO] [com.abc.automate.GoogleSearchTest] click search button 
+Mon Jun 08 12:10:15 IST 2020- 17sec [Test worker] [INFO] [com.abc.automate.GoogleSearchTest] search link title=adi-devops (Aditya) · GitHub 
+Mon Jun 08 12:10:16 IST 2020- 18sec [Test worker] [INFO] [com.abc.automate.GoogleSearchTest] added scrrenshot=/Users/asekha251/git/gradle-report/gradle-report/build/reports/tests/test/screenshot/github adi-devops.png 
